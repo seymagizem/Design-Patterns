@@ -35,4 +35,3 @@ namespace DesignPattern
             return this.Name;
         }
     }
-}
